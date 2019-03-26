@@ -12,7 +12,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 ## Guide design
 
-- [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - A webserver to design gRNA(s) to efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
+- [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - A website to design gRNA(s) to efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
 - [Benchling](https://benchling.com/crispr) - [webserver] - A website that can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
 - [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - A webserver of designing gRNAs for multiple organisms.
 - [CasFinder](http://arep.med.harvard.edu/CasFinder/) - [Python] - An algorithm for identifying specific Cas9 targets in genomes.
